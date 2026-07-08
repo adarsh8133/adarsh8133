@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adarsh Dubey</h1>
 <h2 align="center"> and I am pursuing Btech from KIPM Gida Gorakhpur Uttar Pradesh </h2>
 
-- 🔭 I’m currently working on **Hotel Management**
+- 🔭 I’m currently working on project **Hotel Management** and it is Done .
 
-- 🌱 I’m currently learning **java**
 
 - 📫 How to reach me **adarshdubey0706@gmail.com**
 
