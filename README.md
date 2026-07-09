@@ -1,17 +1,20 @@
-<h1 align="center">Hi 👋, I'm Adarsh Dubey</h1>
-<h2 align="center"> and I am pursuing Btech from KIPM Gida Gorakhpur Uttar Pradesh </h2>
+# 👋 Hi, I'm Adarsh! 
 
-- 🔭 I’m currently working on project **Hotel Management** and it is Done .
+### 💻 About Me
+- 🎓 **Education:** 3rd Year BTech Student (Information Technology / Computer Science)
+- 📊 **Focus:** Passionate about Data Analytics, Data Visualization, and Business Intelligence.
+- 🚀 **Goal:** Looking for Data Analyst internships and opportunities to solve real-world business problems.
 
+### 🛠️ My Tech Stack & Tools
+- **Data Visualization:** Power BI
+- **Programming & Languages:** SQL (Structured Query Language), Java
+- **Data Engineering:** Power Query, ETL Process, Data Modeling
+- **Core Concepts:** OOPS, Software Engineering, Analytics
 
-- 📫 How to reach me **adarshdubey0706@gmail.com**
+### 📁 Featured Projects
+- **[US Superstore Sales Analytics](https://github.com/adarsh8133/Superstore-Dashboard-using-PowerBI):** An interactive Power BI dashboard tracking KPIs, sales trends, and profit margins to drive data-driven business decisions.
 
-- ⚡ Fun fact **I think I am Funny**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### 📬 Connect with Me
+- 💼 **LinkedIn:** [www.linkedin.com/in/adarsh-dubey-ba3508384]
+- 📧 **Email:** [adarshdubey0706@gmail.com]
 
